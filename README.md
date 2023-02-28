@@ -1,5 +1,7 @@
 This Project is based on https://github.com/drprojects/DeepViewAgg
 
+It is a part of my work with my teammate Jakob Waibel in our Masters' course Advanced Deep Learning for Computer Vision at the Technical University of Munich. Most of our work is done on `/torch_points3d/modules/multimodal/fusion.py` as we investigated a self-attention based novel mechanism for fusing features from 2D and 3D data.  
+
 ## Requirements :memo:
 The following must be installed before installing this project.
 - Anaconda3
